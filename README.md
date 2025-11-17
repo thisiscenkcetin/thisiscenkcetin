@@ -25,7 +25,7 @@ I have a multidisciplinary career in design, software, and media. Starting at a 
 HTML5 • CSS3 • JavaScript • React • Tailwind CSS • Figma
 
 ### Backend
-C# • .NET • SQL • Python • WordPress & E-commerce Development
+C# • .NET • SQL • Python • PHP • WordPress & E-commerce Development
 
 ### Design Tools
 Adobe Illustrator • Photoshop • Premiere Pro • After Effects • Audition/Audacity • Coreldraw
