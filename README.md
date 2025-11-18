@@ -41,7 +41,6 @@ Amazon • Trendyol • Hepsiburada & Other Turkish Marketplaces
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscenkcetin&theme=radical&layout=compact&hide_border=true)
 
 <div align="center">
-
 </div>
 
 
