@@ -37,7 +37,6 @@ Amazon • Trendyol • Hepsiburada & Other Turkish Marketplaces
 <br>
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisiscenkcetin&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscenkcetin&theme=radical&layout=compact&hide_border=true)
 
 <div align="center">
