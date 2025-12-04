@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQENpb6t03Ny8A/profile-displaybackgroundimage-shrink_350_1400/B4EZhBn3k3HoAY-/0/1753447636576?e=1764806400&v=beta&t=4IBQFDxbpwgKlWIQBnW94yWI2wfK4La8YO51TmTi0po)
+![Banner](https://github.com/thisiscenkcetin/document/blob/main/cenk-cetin.jpg?raw=true)
 
 ### Cenk Çetin 
 
@@ -37,7 +37,7 @@ Amazon • Trendyol • Hepsiburada & Other Turkish Marketplaces
 <br>
 ## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscenkcetin&theme=radical&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscenkcetin)
 
 <div align="center">
 </div>
