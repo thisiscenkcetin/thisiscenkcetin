@@ -2,7 +2,7 @@
 
 ### Cenk Çetin 
 
-web developer • prof. designer • video creator
+⁣⁣⁣web developer | sr. designer | video creator
 <br>
 <br>
 I have a multidisciplinary career in design, software, and media. Starting at a young age, I specialized in web development, e-commerce, SEO, social media, and digital marketing. I help brands strengthen their digital presence and deliver solutions that drive growth.
