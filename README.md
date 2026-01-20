@@ -35,11 +35,6 @@ SEO • Social Media Management • Content Strategy
 Amazon • Trendyol • Hepsiburada & Other Turkish Marketplaces
 <br>
 <br>
-## 📊 GitHub Statistics
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisiscenkcetin&theme=dark)](https://git.io/streak-stats)
-
-<div align="center">
 </div>
 
 
