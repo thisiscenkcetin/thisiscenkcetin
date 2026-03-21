@@ -2,7 +2,7 @@
 
 ### Cenk Çetin 
 
-⁣⁣⁣web developer | sr. designer | video creator
+Sr. Designer | Web Developer | AI & LLM Specialist
 <br>
 <br>
 I have a multidisciplinary career in design, software, and media. Starting at a young age, I specialized in web development, e-commerce, SEO, social media, and digital marketing. I help brands strengthen their digital presence and deliver solutions that drive growth.
@@ -15,8 +15,6 @@ I have a multidisciplinary career in design, software, and media. Starting at a 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://cenkcetin.medium.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/905525927390)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/thisiscenkcetin)
-[![WeChat](https://img.shields.io/badge/WeChat-09B83E?style=flat&logo=wechat&logoColor=white)](https://u.wechat.com/kLdTZSzcve_tx9BG0iiz-io?s=2)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://cenketin.slack.com/team/U09NTGL53N0)
 <br>
 <br>
 ## 💻 Skills 
