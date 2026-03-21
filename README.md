@@ -5,7 +5,10 @@
 Sr. Designer | Web Developer | AI & LLM Specialist
 <br>
 <br>
-I have a multidisciplinary career in design, software, and media. Starting at a young age, I specialized in web development, e-commerce, SEO, social media, and digital marketing. I help brands strengthen their digital presence and deliver solutions that drive growth.
+I have a multidisciplinary vision that brings design and software development together. Building hands-on experience from an early age, I have specialized in design, web development, digital marketing, e-commerce, and SEO. Today, I deliver end-to-end solutions that empower brands to scale their digital assets.
+
+Keeping pace with the speed of technological evolution, I am currently focusing heavily on machine learning and LLMs (Large Language Models). As I advance in my academic journey, I continue to generate innovative value within the modern software ecosystem.
+
 <br>
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisiscenkcetin)
