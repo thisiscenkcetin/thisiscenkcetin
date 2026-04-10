@@ -22,7 +22,7 @@ Keeping pace with the speed of technological evolution, I am currently focusing 
 ## 💻 Skills 
 
 ### Frontend
-HTML5 & CSS3 • JavaScript • TypeScript • React.js • Tailwind CSS • Figma
+JavaScript • TypeScript • React.js • Tailwind CSS • Figma
 
 ### Backend
 C# • .NET • Node.js • Python • PHP • SQL(MySQL, PostgreSQL) • OOP & SDLC • WordPress & E-Commerce • Git - GitHub/GitLab
