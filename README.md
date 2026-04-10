@@ -37,7 +37,7 @@ Data Science & Analytics • Power BI • Tableau • Big Data Fundamentals
 Generative AI • Prompt Engineering & LLMOps • Machine Learning • Ethical & Responsible AI • N8n • AI-Assisted Coding(Cursor, Antigravity, Kiro, Claude Code)
 
 ### Cloud Computing & System Administration
-Linux (Ubuntu) • Docker & Containerization • Huawei Cloud & OpenStack • SAP Basis • Network & System Administration
+Linux (Ubuntu) • Docker & Containerization • Huawei Cloud & OpenStack • SAP Basis • CDN • Network & System Administration 
 
 ### Cybersecurity
 OWASP Top 10 & WAF • Network Security & Firewalls • Secure Software Development • Risk Management
