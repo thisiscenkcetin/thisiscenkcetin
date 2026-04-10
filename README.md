@@ -34,7 +34,7 @@ Adobe Photoshop • Illustrator • Premiere Pro • After Effects • Audition 
 Data Science & Analytics • Power BI • Tableau • Big Data Fundamentals
 
 ### Artificial Intelligence & Machine Learning
-Generative AI • Prompt Engineering & LLMOps • Machine Learning • Ethical & Responsible AI • N8n • AI-Assisted Coding(Cursor, Antigravity, Kiro)
+Generative AI • Prompt Engineering & LLMOps • Machine Learning • Ethical & Responsible AI • N8n • AI-Assisted Coding(Cursor, Antigravity, Kiro, Claude Code)
 
 ### Cloud Computing & System Administration
 Linux (Ubuntu) • Docker & Containerization • Huawei Cloud & OpenStack • SAP Basis • Network & System Administration
